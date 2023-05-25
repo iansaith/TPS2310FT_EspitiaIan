@@ -97,8 +97,6 @@ Git status  nos muestra donde esta en archivo
 
 ## Conversion entre binario y decimal
 
-##
-
 ## Suma y resta de binarios
 
 ## Multiplicacion y division de binarios
