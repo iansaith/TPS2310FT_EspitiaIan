@@ -105,9 +105,19 @@ Git status  nos muestra donde esta en archivo
 
 ## ¿Que son la tablas de verdad?
 
+## Tablas de verdad= herramienta que nos ayuda a determinar cuales son las condiciones nesecarias para que sea verdadero o valido un enunciado propuesto
+
 ## Operadores logicos
 
+## OPERADOR/NO PROPOSITO/devuelve cuando expreso 1 y expresiones 2 son verdaderas EJEMPLO/expresion 1 y expresion 2
+
 ## Operadores aritmreticos
+
+## son los símbolos que permiten identificar, cuáles son los procesos y cuáles son sus resultados. Estos por lo general se usan para realizar las operaciones aritméticas conocidas que implican el cálculo de valores, dentro de los básicos encontramos (suma +, resta -, multiplicación *, división /)
+
+## Oeradores de comparacion
+
+## Los operadores de comparación se utilizan para comparar valores. Muestran true o false según si una comparación es verdadera o falsa. Estas comparaciones suceden entre dos partes, un lado A y un lado B
 
 ## Reto 0: identifica los operadores
 
@@ -116,6 +126,8 @@ Git status  nos muestra donde esta en archivo
 ## ¿Que es un algoritmo? ¿Como resolver problemas con algoritmos?
 
 ## ¿Que es un digrama de flujo?
+
+## Un diagrama de flujo, es un conjunto de símbolos y elementos que nos permiten representar cada uno de los pasos que componen un proceso. Los diagramas de flujo también nos ayudan a encontrar errores que cometimos al momento de diseñar los algoritmos
 
 ## Reto 1: ¿Hay dinero en el cajero electronico?
 
