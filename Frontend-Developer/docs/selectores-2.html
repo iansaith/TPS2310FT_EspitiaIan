@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    div p {
+       color: lime; 
+    }
+
+    div > h2 {
+       color: rgb(255, 0, 225); 
+    }
+
+    section + div {
+        background:pink;
+    }
+    div ~ p{
+        color: powderblue;
+    }
+     </style>
+</head>
+<body>
+    <section>
+        <h1>prueba del "section"</h1>
+    </section>
+    <div>
+        <P>hola</P>
+        <p>colegio</p>
+        <p>educativo</p>
+        <h1>querido colegio</h1>
+        <h1>
+             <p>estoy progamando y probando "div p"</p> 
+        </h1>
+    </div>
+    <div>
+        <h2>-------------------------------------------</h2>
+        <h1>
+            <h2>aqui estoy probando "div" > h1"</h2>
+        </h1>
+        <h2>
+            <p>fin del "div > h1"</p>
+        </h2>
+    </div>
+</body>
+</html>
