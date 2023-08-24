@@ -11,10 +11,16 @@
         p::first-letter{
             color:teal;
         }
+        p::before {
+            content:"✨";
+        }
+        P::after {
+            content:"💅";
+        }
         p:hover {
            color: skyblue;
         }
-        div p:nth-child(1) {
+        div p:nth-child(2) {
             color: violet;
         }
     </style>
@@ -26,5 +32,6 @@
     <p>Master</p>
     <p>Lo mejor</p>
    </div>
+   <input type="text" placeholder="calimenio">
 </body>
 </html>
