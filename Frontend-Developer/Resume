@@ -1,4 +1,4 @@
-# [Curso de Frontend developer](https://platzi.com/cursos/frontend-developer/)
+ # [Curso de Frontend developer](https://platzi.com/cursos/frontend-developer/)
 
 ## Introduccion al desarrollo frontend
 
@@ -6,27 +6,71 @@
 
 - ### ¿Que es HTML Y CSS? ¿para que sirve? 
 
+El Lenguaje de Marcado de Hipertexto o HTML por sus siglas en inglés (HyperText Markup Language) es el código para construir la estructura de una página web.
+
+El lenguaje de Hojas de Estilos en Cascada o CSS por sus siglas en inglés (Cascade Style Sheets) es el código para describir la presentación de los elementos de la página web, los que definimos con HTML.
+
 - ### Motores de render: de archivos a pixeles
+
+Los motores de renderizado son programas que traducen nuestro código en un lenguaje que entienda el navegador, de esta manera el programa sabrá que es lo que tiene que mostrar por pantalla al usuario.
 
 ## Maquetacion con HTML
 
 - ### Anatomia de HTML y susu elementos
 
+
+Etiquetas: es la representación de un elemento HTML. Se dividen en etiquetas de apertura, representadas por etiqueta y etiquetas de cierre, representadas por etiqueta.
+
+
+Contenido: es el texto o elementos encerrados por la etiqueta, este valor es opcional en algunas de ellas.
+
 - ### ¿Que es un HTML sematico?
 
+El HTML semántico consiste en que cada elemento tenga su propia etiqueta que lo defina correctamente. Sin utilizar etiquetas muy generales, como div o span.
+
 - ### Etiquetas de HTML mas usadas
+
+
 
 ## Maquetacion de CSS
 
 - ### Anatomía de una declaración CSS: selectores, propiedades y valores
+
+Una declaración de CSS es un bloque que especifica el conjunto de estilos que se añadirán a un elemento HTML. Su estructura contiene lo siguiente:
+
+Selector: define el elemento o conjunto de elementos a los cuales se añadirán los estilos.
+
+Propiedad: es el nombre del estilo de CSS.
+
+Valor: es el valor que tomará la propiedad.
   
 - ### Tipos de selectores: básicos y combinadores
+
+El selector define el elemento o conjunto de elementos HTML a los cuales se añadirán estilos. Existen nombres de colores propios de CSS que puedes explorar.
+
+Selector de tipo
+
+ Selector de clase
+
+ Selector de identificador único (id)
+
+ Selector de atributo
+
+ Selector universal
   
 - ### Tipos de selectores: pseudoclases y pseudoelementos
 
+Existen otros tipos de selectores, además de los selectores básicos y combinadores, capaces de cambiar un estado o añadir algo más al elemento. Estos son denominados pseudoclases y pseudoelementos.
+
 - ### Cascada y especificidad en CSS
 
+La cascada es el concepto que determina qué estilos se colocan sobre otros, priorizando a aquellos que se encuentren más abajo del código.
+
+La especificidad consiste en dar un valor a una regla CSS sobre qué tan específico es el estilo, esto para que los navegadores puedan saber qué estilos aplicar sobre otros, independientemente de dónde se encuentren en el código.
+
 - ### Tipos de display más usados: block, inline e inline-block
+
+
 
 - ### Tipos de display más usados: flexbox y CSS grid
 
